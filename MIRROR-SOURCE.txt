@@ -1,0 +1,13 @@
+Submodule mirrored for openancore.
+
+parent: platform_external_coreboot
+path: 3rdparty/qc_blobs
+gitmodules_url: https://review.coreboot.org/qc_blobs.git
+fetched_from: https://review.coreboot.org/qc_blobs.git
+commit: a252198ec6544e13904cfe831cec3e784aaa715d
+branch: main
+fallback_from_github: false
+
+commit is the gitlink recorded on the parent's android-15.0.0_r36 branch.
+branch is the upstream HEAD branch at fetch time. The commit is pushed
+here as android-15.0.0_r36 whether or not it is that branch's tip.
